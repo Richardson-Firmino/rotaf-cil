@@ -86,7 +86,7 @@ A proposta utiliza recursos da AWS distribuídos em duas zonas de disponibilidad
 
 ### Diagrama da arquitetura
 
-> **Imagem:** coloque o arquivo do diagrama na pasta `docs/` com o nome `arquitetura-aws.png`. Se o nome ou a localização forem diferentes, atualize o caminho abaixo.
+A figura abaixo apresenta a arquitetura AWS proposta para o RotaFácil, com distribuição dos recursos em duas zonas de disponibilidade, segmentação de redes públicas e privadas, balanceamento de carga, banco de dados e serviços de segurança e monitoramento.
 
 ![Diagrama da arquitetura AWS do RotaFácil](arquitetura-aws.png)
 
