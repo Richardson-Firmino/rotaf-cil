@@ -21,7 +21,6 @@
 - [Tecnologias e serviços considerados](#tecnologias-e-serviços-considerados)
 - [Equipe do projeto](#equipe-do-projeto)
 - [Conclusão](#conclusão)
-- [Conclusão do curso e contexto do projeto](#conclusão-do-curso-e-contexto-do-projeto)
 - [Status do projeto](#status-do-projeto)
 - [Licença](#licença)
 
@@ -193,11 +192,7 @@ O desafio do RotaFácil consistiu em analisar as limitações de uma arquitetura
 
 A proposta combina serviços gerenciados e recursos de computação da AWS para responder aos problemas apresentados no caso. A efetividade da solução deve ser validada por meio de implementação, testes de carga, testes de recuperação, revisão das configurações de segurança e avaliação de custos.
 
-Como entrega de conclusão do programa Generation Brasil, no contexto do curso AWS re/Start — Graduate, este trabalho reúne a análise do cenário proposto, a identificação dos problemas da arquitetura legada e a elaboração, em equipe, de uma proposta de arquitetura AWS para o RotaFácil. A atividade permitiu aplicar conceitos de computação em nuvem, disponibilidade, escalabilidade, monitoramento e segurança em um estudo de caso de mobilidade urbana.
-
-## Conclusão do curso e contexto do projeto
-
-Este trabalho foi desenvolvido como desafio de conclusão do programa **Generation Brasil**, no contexto do curso **AWS re/Start — Graduate**. O projeto aplica conceitos de computação em nuvem e arquitetura AWS a um estudo de caso de mobilidade urbana.
+Como entrega de conclusão do programa **Generation Brasil**, no contexto do curso **AWS re/Start — Graduate**, este trabalho reúne a análise do cenário proposto, a identificação dos problemas da arquitetura legada e a elaboração, em equipe, de uma proposta de arquitetura AWS para o RotaFácil. A atividade permitiu aplicar conceitos de computação em nuvem, disponibilidade, escalabilidade, monitoramento e segurança em um estudo de caso de mobilidade urbana.
 
 ## Status do projeto
 
